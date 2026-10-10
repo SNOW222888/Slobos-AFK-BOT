@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "godcrazyman.aternos.me:31996
-",
+    "ip": "godcrazyman.aternos.me:31996",
     "port": 31996,
     "version": "1.21.1"
   },
